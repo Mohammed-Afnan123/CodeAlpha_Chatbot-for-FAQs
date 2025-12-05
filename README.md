@@ -9,3 +9,7 @@ Streamlit for the web interface
 
 🚀 How to Run
 python -m streamlit run chatbot.py
+
+🎥 Video This project was created as part of the CODEALPHA internship.
+
+The demo video for this project is available on Linkedin (Tagged under CODEALPHA the link available in my profile).
